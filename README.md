@@ -21,8 +21,10 @@ Hello 👋, <b>I'm Ajay.</b> I'm a 1st year B.Tech Computer Science Engineering 
 
 
 <br>
+<!--START_SECTION:waka-->
 
 
+<!--END_SECTION:waka-->
 <br>
 
 
