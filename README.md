@@ -20,12 +20,8 @@ Hello 👋, <b>I'm Ajay.</b> I'm a 1st year B.Tech Computer Science Engineering 
 | March 2023     | GDSC Member        |
 
 
-<br>
-<!--START_SECTION:waka-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aj3322)
 
-
-<!--END_SECTION:waka-->
-<br>
 
 
 ### Technical Stuffs
