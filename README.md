@@ -1,13 +1,10 @@
 # Welcome 🤗
 Hello 👋, <b>I'm Ajay.</b> I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App developer.
-
 > ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-
 <br>
 
 ### Talking about personal stuff
 <ul>
-<li>👨‍💻  I'm currently working on learning stuffs.</li>
 <li>🔭 I’m currently working on building <b>SpaceFinder App</b></li>
 <li>💬 Ask me about <b>App-Developement</b>.</li>
 </ul>
@@ -34,12 +31,6 @@ Hello 👋, <b>I'm Ajay.</b> I'm a 3rd year B.Tech Computer Science Engineering 
 | **Space Finder API** | A RESTful API to facilitate searching, listing, and managing rental properties, including homes, shops, and rooms. | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Memory Box** | A mobile app designed to assist Alzheimer's patients and their caregivers by providing memory support tools and daily assistance. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
 | **Social-Master** | A social media app inspired by Instagram, built using Flutter for seamless user engagement and content sharing. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white) |
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aj3322)
-
-
 
 ### Technical Stuffs
 #### Front-End
