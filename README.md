@@ -1,5 +1,5 @@
 # Welcome 🤗
-Hello 👋, <b>I'm Ajay.</b> I'm a 3rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App developer.
+Hello 👋, <b>I'm Ajay.</b> I'm a 4rd year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm an App developer.
 > ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 <br>
 
