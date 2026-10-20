@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Ajay Kumar, Flutter and backend developer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#14306b"/><stop offset="1" stop-color="#0e7490"/></linearGradient>
+<linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#a5f3fc"/></linearGradient>
+</defs>
+<style>
+.name{font:800 58px 'Segoe UI',system-ui,-apple-system,sans-serif;letter-spacing:6px;fill:url(#nm);animation:rise 1.2s ease-out both}
+.role{font:500 26px 'Segoe UI',system-ui,-apple-system,sans-serif;fill:#e0f2fe;opacity:0;animation:cycle 12s infinite}
+.hello{font:500 16px 'Segoe UI',system-ui,sans-serif;fill:#7dd3fc;letter-spacing:4px;animation:rise 1.2s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes cycle{0%{opacity:0;transform:translateY(10px)}4%{opacity:1;transform:none}21%{opacity:1;transform:none}25%{opacity:0;transform:translateY(-10px)}100%{opacity:0}}
+</style>
+<rect width="1000" height="260" fill="url(#bg)"/>
+<circle cx="860" cy="60" r="90" fill="#22d3ee" fill-opacity="0.07"><animate attributeName="r" values="80;100;80" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="40" r="60" fill="#60a5fa" fill-opacity="0.08"><animate attributeName="r" values="50;70;50" dur="9s" repeatCount="indefinite"/></circle>
+<path d="M0 215 Q 125.0 201 250 215 Q 375.0 229 500 215 Q 625.0 201 750 215 Q 875.0 229 1000 215 Q 1125.0 201 1250 215 Q 1375.0 229 1500 215 Q 1625.0 201 1750 215 Q 1875.0 229 2000 215 Q 2125.0 201 2250 215 V260 H0 Z" fill="#67e8f9" fill-opacity="0.1"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="11s" repeatCount="indefinite"/></path>
+<path d="M0 228 Q 125.0 216 250 228 Q 375.0 240 500 228 Q 625.0 216 750 228 Q 875.0 240 1000 228 Q 1125.0 216 1250 228 Q 1375.0 240 1500 228 Q 1625.0 216 1750 228 Q 1875.0 240 2000 228 Q 2125.0 216 2250 228 V260 H0 Z" fill="#93c5fd" fill-opacity="0.14"><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="8s" repeatCount="indefinite"/></path>
+<path d="M0 240 Q 125.0 230 250 240 Q 375.0 250 500 240 Q 625.0 230 750 240 Q 875.0 250 1000 240 Q 1125.0 230 1250 240 Q 1375.0 250 1500 240 Q 1625.0 230 1750 240 Q 1875.0 250 2000 240 Q 2125.0 230 2250 240 V260 H0 Z" fill="#0b1020" fill-opacity="0.22"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="6s" repeatCount="indefinite"/></path>
+<text x="500" y="70" text-anchor="middle" class="hello">HELLO, I'M</text>
+<text x="500" y="128" text-anchor="middle" class="name">AJAY KUMAR</text>
+<text x="500" y="168" text-anchor="middle" class="role" style="animation-delay:0s;opacity:1">Flutter Developer</text><text x="500" y="168" text-anchor="middle" class="role" style="animation-delay:3s">Backend Developer</text><text x="500" y="168" text-anchor="middle" class="role" style="animation-delay:6s">Real-time Systems</text><text x="500" y="168" text-anchor="middle" class="role" style="animation-delay:9s">Product Builder</text>
+</svg>

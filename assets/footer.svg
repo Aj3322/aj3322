@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" aria-hidden="true">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#14306b"/><stop offset="1" stop-color="#0e7490"/></linearGradient></defs>
+<rect width="1000" height="90" fill="url(#g)"/>
+<path d="M0 40 Q 125.0 30 250 40 Q 375.0 50 500 40 Q 625.0 30 750 40 Q 875.0 50 1000 40 Q 1125.0 30 1250 40 Q 1375.0 50 1500 40 Q 1625.0 30 1750 40 Q 1875.0 50 2000 40 Q 2125.0 30 2250 40 V260 H0 Z" fill="#a5f3fc" fill-opacity="0.18"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0 52 Q 125.0 44 250 52 Q 375.0 60 500 52 Q 625.0 44 750 52 Q 875.0 60 1000 52 Q 1125.0 44 1250 52 Q 1375.0 60 1500 52 Q 1625.0 44 1750 52 Q 1875.0 60 2000 52 Q 2125.0 44 2250 52 V260 H0 Z" fill="#0b1020" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="6s" repeatCount="indefinite"/></path>
+</svg>
